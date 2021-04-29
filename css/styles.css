@@ -150,3 +150,18 @@ a:hover {
  width: 300px;
  height: 300px;
 }
+music{
+  
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.musics{
+  float:right;
+  height: 37.5%;
+  width: 37.5%;
+  margin-top: 80px;
+  
+}
+.insidemiddle{
+  padding-top: 70px;
+}
